@@ -11,24 +11,40 @@
                 "texture": [
                 "https://i.ibb.co/0j9hdn1m/North-American-Airlines-a330-900neo.png"
                  ],
-                 "credits": "𝑵𝒊𝒄𝒌𝒚"
+                 "credits": "AirplanesAviation2361"
                 },
                 {
                 "name": "Oceanic wave Livery"
                 "texture": [
                     "https://i.ibb.co/BKsVm9f0/North-American-Airlines-a330-900neo-Oceanic-wave-livery.png"
                  ],
-                 "credits": "𝑵𝒊𝒄𝒌𝒚"
+                 "credits": "AirplanesAviation2361"
                 },
                 {
                 "name": "night city livery",
                 "texture": [
                     "https://i.ibb.co/jkW0dRVp/North-American-Airlines-a330-900neo-City-lights-livery.png"
                  ],
-                 "credits": "𝑵𝒊𝒄𝒌𝒚
+                 "credits": "AirplanesAviation2361"
             ],
             "labels": [
                 "Specular Shader",
+                "Texture"
+            ]
+        },
+
+            "24": {
+            "name": "Airbus A350-900",
+            "liveries": [
+              {
+                "name": "standard livery",
+                "texture": [
+                  "https://i.ibb.co/hF3f9vc9/A350-900-2.png"
+                ],
+                "credits": "AirplanesAviation2361"
+              }
+            ],
+            "labels": [
                 "Texture"
             ]
         },
