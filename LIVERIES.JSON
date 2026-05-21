@@ -1,12 +1,12 @@
-"4631": {
-            "name": "Airbus a330-900neo",
+"24": {
+            "name": "Airbus a350-900",
             "liveries": [
                 {
                     "name": "Standard livery",          
                     "texture": [       
-                        "https://i.ibb.co/6cnm1qvP/Adobe-Express-file-3.png" 
+                        "https://i.ibb.co/hF3f9vc9/A350-900-2.png" 
                     ],
-                    "credits": "𝑵𝒊𝒄𝒌𝒚"              
+                    "credits": "AirplanesAviation2361"              
                 }
             ],
             "labels": [
